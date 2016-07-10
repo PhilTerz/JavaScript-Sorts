@@ -5,8 +5,18 @@ module.exports = new(function() {
         },
 
         {
-            'set': [-9, 3, 7, 0, 101],
-            'solution': [-9, 0, 3, 7, 101]
+            'set': [],
+            'solution': []
+        },
+
+        {
+            'set': [1, 2, 3, 4, 5],
+            'solution': [1, 2, 3, 4, 5]
+        },
+
+        {
+            'set': [0],
+            'solution': [0]
         }
     ]
 
